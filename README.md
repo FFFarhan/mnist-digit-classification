@@ -14,7 +14,7 @@ The project consists of the following components:
 ## Usage
 
 1. **Clone the Repository:**
-git clone https://github.com/your-username/mnist-digit-classifier.git
+git clone https://github.com/FFFarhan/mnist-digit-classifier.git
 
 2. **Install Dependencies:**
 pip install -r requirements.txt
@@ -40,4 +40,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-[Your Name](https://github.com/FFFarhan)
+[Farhan Gandhi](https://github.com/FFFarhan)

@@ -14,7 +14,7 @@ The project consists of the following components:
 ## Usage
 
 1. **Clone the Repository:**
-git clone https://github.com/FFFarhan/mnist-digit-classifier.git
+$git clone https://github.com/FFFarhan/mnist-digit-classifier.git
 
 2. **Install Dependencies:**
 pip install -r requirements.txt

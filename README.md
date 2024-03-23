@@ -14,14 +14,14 @@ The project consists of the following components:
 ## Usage
 
 1. **Clone the Repository:**
-$git clone https://github.com/FFFarhan/mnist-digit-classifier.git
+`git clone https://github.com/FFFarhan/mnist-digit-classifier.git`
 
 2. **Install Dependencies:**
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 3. **Train, Evaluate, Make Predictions for the Model:**
-Open the mnist-digit-classification.ipynb notebook in Jupyter and follow the steps provided to train the digit classifier model, evaluate its performance, and make predictions on new digit images.
+Open the `mnist-digit-classification.ipynb` notebook in Jupyter and follow the steps provided to train the digit classifier model, evaluate its performance, and make predictions on new digit images.
 +
 ## Files
 
